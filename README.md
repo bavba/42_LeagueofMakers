@@ -28,6 +28,6 @@ I would like to express my gratitude to the mentors, colleagues and staff at 42 
 
 ## **Contact Information**
 
-For any inquiries related to the projects feel free to reach me at sha0sgithub@gmail.com.
+For any inquiries related to the projects feel free to reach me at bavbagithub@gmail.com.
 
-**Note:** _The materials in this repository are solely intended for educational purposes and should not be used without authorization._
+**Note:** _The materials in this repository are for educational purposes only and should not be used maliciously or in any unauthorized manner._
