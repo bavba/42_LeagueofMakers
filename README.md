@@ -6,7 +6,7 @@ Welcome to my repository documenting my journey through the Cursus at 42 Barcelo
 
 This repository serves as an ever-evolving page that reflects my growth and learning over the next two years at 42 Barcelona. It showcases the projects I have worked on, the technologies I have utilized, and the methodology I followed throughout the Cursus.
 
-## **Projects:**
+## **Projects**
 
 **Device to detect WiFi jamming attempts**
 
@@ -18,7 +18,7 @@ Throughout the projects, I utilized a variety of technologies and tools, includi
 
 · IOT board: ESP8266.
 
-## **Methodology:**
+## **Methodology**
 
 To ensure organization and version control, each project was developed in a separate branch and folder. Upon completion, these branches were merged with the main branch.
 
