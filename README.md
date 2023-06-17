@@ -8,7 +8,7 @@ This repository serves as an ever-evolving page that reflects my growth and lear
 
 ## **Projects**
 
-**Device to detect WiFi jamming attempts**
+**[Device to detect WiFi jamming attempts](https://github.com/bavba/42_Leagueofmakers_WifiJammingDetection)**
 
 ## **Technologies and Tools**
 
